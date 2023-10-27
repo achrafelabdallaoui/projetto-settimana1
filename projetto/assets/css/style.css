@@ -1,0 +1,113 @@
+/* Your styles here */
+header{
+  background-color: black;
+  text-align: center;
+  padding: 40px;
+ }
+
+
+ /* ////main/////// */
+ main{
+  padding: 80px;
+  text-align: center;
+  background-image: url(../img/banner.jpg);
+  background-size: 600px 500px;
+  background-repeat: no-repeat;
+ }
+ 
+ #logo{
+   width: 30vw;
+ }
+
+ #prmdiv{
+  padding: 20px;
+ }
+
+ #secdiv{
+
+  margin-top: -80px;
+ }
+
+ h1,h2,h3,h4,h5{
+  font-family: 'Montserrat', sans-serif ;
+  color: #25a2c3 ;
+  line-height: 1.5;
+  font-weight: bold;
+ }
+
+
+
+ #b{
+  background-color: #f04c2f ;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  height: 60px;
+ }
+
+#secm{
+ margin-top: 200px;
+ }
+
+
+ #notebook{
+  border-radius: 350px;
+ }
+
+ #secp{
+  margin-top: -20px;
+ }
+
+ /* ///////aside///// */
+
+ #sec2{
+  background-color: #e22d0e;
+  color: white;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+  margin-bottom: 40px;
+ }
+
+ #sech{
+  color: white;
+
+
+ }
+
+#secp{
+font-size: small;
+}
+
+#sec3{
+  padding-top: 80px;
+
+  text-align: center;
+}
+
+#desck{
+  width: 85vw;
+  border: #dee1e3;
+}
+
+/* //////////footer///// */
+
+footer{
+  background-color: #25a2c3;
+  text-align: center;
+  color: white;
+padding: 50px;
+}
+
+hr{
+  width: 50%;
+}
+ #pfoot{
+  font-size: 1rem;
+ }
