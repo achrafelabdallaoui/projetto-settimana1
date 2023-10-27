@@ -10,7 +10,7 @@ header{
   padding: 200px;
 
   background-image: url(../img/banner.jpg);
-  background-size: 100% 700px;
+  background-size: 100% 600px;
   background-repeat: no-repeat;
  }
  #secdiv{
@@ -43,14 +43,17 @@ header{
   background-color: #f04c2f ;
   color: white;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: bold;
   border: none;
   border-radius: 5px;
   width: 200px;
   height: 60px;
  }
-
+#pipo{
+  margin-left: 600px;
+  margin-top: -700px;
+}
 #secm{
  margin-top: 200px;
  }
@@ -58,6 +61,7 @@ header{
 
  #notebook{
   border-radius: 350px;
+  margin-top: 300px;
  }
 
  #secp{
@@ -88,15 +92,32 @@ font-size: small;
 }
 
 #sec3{
-  padding-top: 80px;
 
-  text-align: center;
+
+margin: 0 auto;
+/* width: 85%; */
+
+
 }
 
 #desck{
-  width: 85vw;
+  width: 20vw;
   border: #dee1e3;
 }
+
+/* /////section/// */
+
+
+.piw{
+  margin: 0 auto;
+margin-left: 5px;
+display: inline-block;
+text-align: center;
+vertical-align: top;
+width: 25vw;
+}
+
+
 
 /* //////////footer///// */
 
@@ -104,12 +125,15 @@ footer{
   background-color: #25a2c3;
   text-align: center;
   color: white;
-padding: 50px;
+padding: 30px;
 }
 
 hr{
-  width: 50%;
+  width: 20%;
 }
  #pfoot{
   font-size: 1rem;
+ }
+ a{
+  color: white;
  }
